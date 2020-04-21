@@ -8,7 +8,6 @@
      or at https://www.gnu.org/licenses/gpl-2.0.txt
 -->
 <resources>
-  <string name="app_name">Обои Paranoid</string>
   <string name="applying">Применение выбранных обоев</string>
   <string name="longpress_info">Удерживайте для применения обоев</string>
   <string name="wallpaper_instructions">Установить обои</string>

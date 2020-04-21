@@ -8,7 +8,6 @@
      or at https://www.gnu.org/licenses/gpl-2.0.txt
 -->
 <resources>
-  <string name="app_name">Paranoid papiere</string>
   <string name="applying">Aplikovanie vybranej tapety</string>
   <string name="longpress_info">Dlho stlačte pre nastavenie tapety</string>
   <string name="wallpaper_instructions">Nastaviť tapetu</string>

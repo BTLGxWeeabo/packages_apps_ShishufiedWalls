@@ -9,21 +9,35 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_14</item>
-        <item>wallpaper_13</item>
-        <item>wallpaper_12</item>
-        <item>wallpaper_11</item>
-        <item>wallpaper_10</item>
-        <item>wallpaper_9</item>
-        <item>wallpaper_8</item>
-        <item>wallpaper_7</item>
-        <item>wallpaper_6</item>
-        <item>wallpaper_5</item>
-        <item>wallpaper_4</item>
-        <item>wallpaper_3</item>
-        <item>wallpaper_2</item>
-        <item>wallpaper_1</item>
-        <item>wallpaper_0</item>
+        <item>btlg_v05</item>
+        <item>btlg_v10</item>
+        <item>btlg_v22</item>
+        <item>btlg_v23</item>
+        <item>btlg_v30</item>
+        <item>btlg_v35</item>
+        <item>btlg_v40</item>
+        <item>btlg_v41</item>
+        <item>btlg_v42</item>
+        <item>btlg_v43</item>
+        <item>btlg_v47</item>
+        <item>btlg_v50</item>
+        <item>btlg_aesthetic</item>
+        <item>btlg_beach</item>
+        <item>btlg_circles</item>
+        <item>btlg_dynamic</item>
+        <item>btlg_greenpattern</item>
+        <item>btlg_leaf</item>
+        <item>btlg_lightning</item>
+        <item>btlg_lines</item>
+        <item>btlg_monoink</item>
+        <item>btlg_oronos_virgilio</item>
+        <item>btlg_palmtree</item>
+        <item>btlg_rgbmess</item>
+        <item>btlg_samurai_vh</item>
+        <item>btlg_squareneon</item>
+        <item>btlg_sunsetino</item>
+        <item>shishu_origins</item>
+        <item>pacleggers_funnie</item>
     </string-array>
 
     <string-array name="wallpaper_options">

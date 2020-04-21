@@ -8,7 +8,6 @@
      or at https://www.gnu.org/licenses/gpl-2.0.txt
 -->
 <resources>
-  <string name="app_name">पैरानॉयड पेपर्स</string>
   <string name="applying">चयनित वॉलपेपर को लागू कर रहा है</string>
   <string name="longpress_info">वॉलपेपर लागू करने के लिए लंबे समय तक दबाएं</string>
   <string name="wallpaper_instructions">वॉलपेपर सेट करें</string>

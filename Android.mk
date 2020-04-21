@@ -21,14 +21,20 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-design
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
-    frameworks/support/v7/appcompat/res \
+    frameworks/support/v7/appcompat/res
+
+ifeq ($(BOOTLEGGERS_NOTCHED),true)
+LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res_long
+else
+LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res_main
+endif
 
 LOCAL_AAPT_FLAGS := --auto-add-overlay \
     --extra-packages android.support.v4 \
     --extra-packages android.support.v7.appcompat \
     --extra-packages android.support.design
 
-LOCAL_PACKAGE_NAME := ParanoidPapers
+LOCAL_PACKAGE_NAME := ShishufiedWalls
 
 LOCAL_USE_AAPT2 := true
 
